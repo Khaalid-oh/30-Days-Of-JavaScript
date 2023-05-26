@@ -284,7 +284,7 @@ Set(2) {1, 2}
 
 ## Map
 
-### Creating an empty Map
+### Creating a empty Map
 
 ```js
 const map = new Map()
@@ -295,7 +295,7 @@ console.log(map)
 Map(0) {}
 ```
 
-### Creating an Map from array
+### Creating a Map from array
 
 ```js
 countries = [
