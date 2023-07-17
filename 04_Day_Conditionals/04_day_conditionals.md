@@ -192,7 +192,7 @@ switch(caseValue){
    // code
    break
   default:
-   // code
+   // code Programiz 
 }
 ```
 
