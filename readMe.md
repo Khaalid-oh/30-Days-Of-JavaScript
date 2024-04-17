@@ -128,6 +128,11 @@ Github.
 
 No prior knowledge of programming is required to follow this challenge. You need only:
 
+- fg
+- cshd
+- sjdwsd\
+- dsdsdsmn
+
 1. Motivation
 2. A computer
 3. Internet
